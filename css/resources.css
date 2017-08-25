@@ -1,0 +1,35 @@
+.jFiler-input-text > p {
+    display: inline-block;
+    font-size: 15px;
+    line-height: 0;
+    margin: 0 0 0 10px;
+    vertical-align: text-top;
+    width: auto;
+}
+.drage_page {
+    padding: 10px;
+}
+.drage_page:hover {
+    cursor: pointer;
+    background-color: #e3e3e3;
+    transition: 500ms;
+}
+.jFiler-input-text {
+    background-color: #bcbcbc;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.jFiler-input-text:hover {
+    background-color: #0aa699;
+}
+.form_upload li {
+    margin-bottom: 23px;
+    margin-left: 10px;
+    margin-right: 0px;
+}
+.form_upload li p {
+    width: 100%;
+}
+#file_placeholder {
+    margin-left: 0 !important;
+}

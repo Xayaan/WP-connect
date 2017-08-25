@@ -1,0 +1,7 @@
+[28-Oct-2016 23:10:19 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SELECT unique_id, image FROM wp_files WHERE type=1
+[28-Oct-2016 23:12:10 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SELECT unique_id, image FROM wp_files WHERE type=1
+[01-Nov-2016 20:22:01 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SELECT unique_id, image FROM wp_files WHERE type=1
+[01-Nov-2016 20:22:25 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SHOW FULL COLUMNS FROM `wp_files`
+[01-Nov-2016 20:22:26 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SELECT unique_id, image FROM wp_files WHERE type=1
+[01-Nov-2016 20:23:21 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SELECT unique_id, image FROM wp_files WHERE type=1
+[01-Nov-2016 20:23:22 UTC] WordPress database error Table 'weautotr_beta.wp_files' doesn't exist for query SELECT unique_id, image FROM wp_files WHERE type=1
